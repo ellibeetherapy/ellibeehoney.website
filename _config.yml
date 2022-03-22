@@ -1,5 +1,5 @@
 title: Elli Bee Honey 
 description: Website to promote Elli Bee's natural honey 
-show_downloads: true
+show_downloads: false 
 google_analytics:
 theme: jekyll-theme-cayman
